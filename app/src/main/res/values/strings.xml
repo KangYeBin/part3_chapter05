@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">part3_chapter05</string>
+    <string name="login">로그인</string>
+    <string name="signUp">회원가입</string>
+    <string name="facebook_app_id">884002462275356</string>
+    <string name="fb_login_protocol_scheme">fb884002462275356</string>
+    <string name="signOut">로그아웃</string>
+    <string name="showMatchedList">매칭 리스트 보기</string>
+    <string name="write_Name">이름을 입력해주세요</string>
+    <string name="save">저장</string>
+    <string name="like">LIKE</string>
+    <string name="dislike">DISLIKE</string>
+</resources>
